@@ -51,7 +51,7 @@
     {
       "nombre": "Fútbol",
       "precio": 7000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/futbol.jpg",
       "id": "9902d6bd-3182-4fd9-b16f-7b36fffc7c0e",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
@@ -59,7 +59,7 @@
     {
       "nombre": "Unicornio",
       "precio": 5000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/unicornio.png",
       "id": "db724963-e5ce-45c8-a50b-8b826dabe906",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
@@ -67,7 +67,7 @@
     {
       "nombre": "Personajes",
       "precio": 5000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/personajes.jpg",
       "id": "02a7269c-6c48-4da4-aa1f-68e9cc22fe8b",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
@@ -75,7 +75,7 @@
     {
       "nombre": "Casamiento",
       "precio": 20000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/Casamiento.png",
       "id": "9c1748ea-802c-4f94-b52d-652bcb45eec2",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
@@ -83,7 +83,7 @@
     {
       "nombre": "Decoradas",
       "precio": 7000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/Varios.jpg",
       "id": "85f95616-b9fc-4baf-91b0-ee9860be09ef",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
@@ -91,7 +91,7 @@
     {
       "nombre": "Adultos",
       "precio": 7000,
-      "categoria": "Tématicas",
+      "categoria": "Temáticas",
       "img": "assets/img/Productos/Adultos.png",
       "id": "4ef8d112-39b1-4c76-bc88-54800a46f3aa",
       "descripcion": "Bizcochuelo y rellenos a eleccion. La decoracion es ilustrativa, se puede agregar o sacar elementos. El precio publicado es orientativo, variará segun gustos y decoraciones elegidas."
